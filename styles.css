@@ -818,5 +818,18 @@ color: white;
     padding: 15px 20px;
     font-weight: 400;
     line-height: 1.4;
-    color: #28eea7;
   }
+.contact-us{
+  display: flex;
+  text-align: right;
+  justify-content: right;
+  align-self: flex-end;
+  margin-top: auto;
+  color: #fcfcfd;
+  text-transform: uppercase;
+  white-space: nowrap;
+  background-color: rgba(54, 55, 56, .75);
+  padding: 15px 20px;
+  font-weight: 800;
+}
+
