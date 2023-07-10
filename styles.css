@@ -833,3 +833,35 @@ color: white;
   font-weight: 800;
 }
 
+.partners-div {
+  /* height: 500px;
+  flex-direction: column;
+  flex: 1;
+  justify-content: space-around;
+  align-items: flex-start;
+  margin-top: 50px;
+  display: flex; */
+}
+.partners-container{
+  width: 100%;
+  flex: 1;
+  align-self: stretch;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.img-part-cont {
+  display: flex;
+  flex-wrap: wrap;
+  gap:10px;
+  justify-content: space-between;
+  align-items: center;
+  justify-items: center;
+  margin-bottom: 20px;
+}
+.img-part-cont img {
+  height: 120px;
+  width: 120px;
+}
+
